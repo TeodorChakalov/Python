@@ -10,6 +10,7 @@ elif figure == "rectangle":
     a = float(input())
     b = float(input())
     area = a * b
+    # print('{0:.3f}'.format(a * b))
     # print(round(area, 3))
 elif figure == "circle":
     r = float(input())

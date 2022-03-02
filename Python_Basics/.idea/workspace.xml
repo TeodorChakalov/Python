@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8dc33c8-cfe5-4550-b6b6-82c1627d06b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Lab/Area_of_Figures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Lab/Even_or_Odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Lab/Excellent_Result.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Lab/Greater_Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Lab/Number_from_100_to_200.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Lab/Password_Guess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Lab/Speed_Info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional_Statements_Lab/Area_of_Figures.py" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional_Statements_Lab/Area_of_Figures.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,17 +35,17 @@
   </component>
   <component name="RunManager" selected="Python.Area_of_Figures">
     <configuration name="Area_of_Figures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="D:\Python\Python_Basics\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Conditional_Statements_Lab" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Conditional_Statements_Lab/Area_of_Figures.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
