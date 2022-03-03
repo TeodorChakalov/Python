@@ -16,3 +16,10 @@ sum = number + bonus
 
 print(bonus)
 print(sum)
+
+role = "Administrator"
+if role != "Administrator":
+    print("No permission")
+else:
+    print("Welcome")
+
