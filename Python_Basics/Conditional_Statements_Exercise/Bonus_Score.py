@@ -15,8 +15,4 @@ if number % 10 == 5:
 sum = number + bonus
 
 print(bonus)
-<<<<<<< HEAD
 print(sum)
-=======
-print(sum)
->>>>>>> 8a1383548bddd2f832b6813bc18492052174f35b
